@@ -1,0 +1,1 @@
+Put these .js and .css files into the src folder of your app to get the React code/app running
